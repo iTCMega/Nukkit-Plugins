@@ -1,0 +1,9 @@
+name: NoDrop
+main: NoDrop.MainClass
+version: "1.0.0"
+api: [1.0.0]
+
+load: POSTWORLD
+author: iTCMega
+description: NoDROP for Nukkit KitPVP Games
+website: https://github.com/itsMegaMCPE

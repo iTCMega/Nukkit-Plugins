@@ -1,0 +1,9 @@
+name: ArrowSound
+main: ArrowSound.MainClass
+version: "1.0.0"
+api: [1.0.0]
+
+load: POSTWORLD	
+author: iTCMega
+description: ArrowSound like MCPC for Nukkit
+website: https://github.com/itsMegaMCPE
